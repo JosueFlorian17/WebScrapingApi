@@ -78,7 +78,7 @@ Respuesta:
       "NameAndAddress": "Example Corp, Panama",
       "SanctionDate": "2021-08-10",
       "SanctionType": "Conditional Debarment",
-      "Grounds": "Corrupt Practice"
+      "Grounds": "Fraudulent Practice"
     }
   ]
 }
