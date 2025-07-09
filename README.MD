@@ -17,7 +17,6 @@ Dado el nombre de una entidad, la API realiza una búsqueda automatizada en lín
 
 - ASP.NET Core 7.0
 - HtmlAgilityPack (para scraping)
-- Swagger/OpenAPI (documentación)
 - Postman (colección de pruebas)
 - Middleware personalizado:
   - API Key Authentication
@@ -42,8 +41,8 @@ Dado el nombre de una entidad, la API realiza una búsqueda automatizada en lín
 3. Ejecuta el proyecto:
    dotnet run
 
-4. Accede a Swagger UI en tu navegador:
-   https://localhost:5001/swagger
+4. Pruebas con Postman
+
 
 ---
 
@@ -113,7 +112,7 @@ Se incluye una colección de Postman con pruebas:
 - Petición con API Key inválida
 - Exceso de solicitudes
 
-Puedes importar el archivo WebScrapingApi.postman_collection.json (si lo incluyes).
+Puedes importar el archivo WebScrapingApi.postman_collection.json.
 
 ---
 
